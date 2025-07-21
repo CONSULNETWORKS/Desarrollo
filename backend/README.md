@@ -99,7 +99,7 @@ Crea un archivo `.env` en la raíz de la carpeta backend con el siguiente conten
 HOST=localhost
 USER=postgres
 PASSWORD="prueba1234"
-DB=cnw-prueba
+DB=cnw
 DIALECT=postgres
 POOL_MAX=5
 POOL_MIN=0
