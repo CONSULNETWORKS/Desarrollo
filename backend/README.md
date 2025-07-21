@@ -8,7 +8,7 @@ Este documento describe los pasos necesarios para instalar y configurar el entor
 ## 🧰 Requisitos
 
 - [PostgreSQL](https://www.postgresql.org/download/)
-- [Node.js (versión recomendada: + v22.16.0)](https://nodejs.org/)
+- [Node.js (versión recomendada: v22.16.0+)](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com/)
 
 ---
@@ -71,10 +71,10 @@ npm -v
 
 ---
 
-### 4. Clonar el proyecto
+### 4. Asegurate de haber clonado el proyecto
 
 ```bash
-git clone https://github.com/AndreCeron/Desarrollo
+git clone https://github.com/CONSULNETWORKS/Desarrollo.git
 cd /Desarrollo
 cd /backend
 ```

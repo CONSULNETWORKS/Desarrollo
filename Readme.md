@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio principal del proyecto de desarrollo **CNW**. Este repositorio contiene tanto el frontend como el backend de la aplicación.
 
-Repositorio: https://github.com/AndreCeron/Desarrollo
+Repositorio: https://github.com/CONSULNETWORKS/Desarrollo
 
 ---
 
@@ -20,7 +20,8 @@ Desarrollo/
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/AndreCeron/Desarrollo.git
+git clone https://github.com/CONSULNETWORKS/Desarrollo.git
+
 cd Desarrollo
 
 ---
